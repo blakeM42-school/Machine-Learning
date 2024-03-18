@@ -14,8 +14,12 @@ def get_unique_word_lengths(passage):
 #passage = "In the big meadow, lots of colorful flowers bloomed, inviting butterflies to dance. Timmy giggled as he chased them, his laughter echoing through the air. The sun warmed his face, and he felt happy in nature's embrace, surrounded by beauty and joy, his heart fluttering with excitement."
 #passage = "Within the tranquil grove, a symphony of bird songs filled the air, harmonizing with the rustle of leaves in the gentle breeze. Sarah strolled steadily along the long winding path, as her senses awash with the sights and sounds of nature's grandeur, finding priceless peace amidst life's chaos."
 #passage = "Beneath the vast open star-strewn sky, the verdant expanse stretched endlessly, a worhty testament to nature's unrivaled resilience. Adam carelessly gazed upon the sprawling landscape, contemplating the intricate web of life that thrived within its bounds, humbled by the magnitude of existence unfolding before him."
+#passage = "In the meadow, the lark sang melodies, while gentle zephyrs danced among the flowers. Sunlight cascaded, painting hues of gold on the verdant canvas. Nature's symphony played, evoking tranquil bliss. Each moment whispered secrets of life's intricate tapestry, weaving memories that lingered in the heart's sanctuary."
+#passage = "In the marketplace, vendors called out their wares, their voices intermingling with the shoppers chatter. Aromas of spices and freshly baked bread wafted through the air. Colors dazzled in vibrant displays, enticing passersby to explore. Amidst the hustle and bustle, the heartbeat of the busy city pulsed lively with energy."
+#passage = "In the city square, laughter echoed as people bustled about, their footsteps creating a rhythmic beat. Street performers captivated audiences with their talents, while vendors tempted passersby with smells. Amidst the urban symphony, the pulse of life thrived, weaving stories of diverse cultures and experiences."
+#passage = "For three days and nights my life followed this pattern. Nothingwas different; each day I did exactly the same things. On the fourthday, I explored the island. The whole island belonged to me, and Iwanted to know everything about it. I was also growing bored andneeded a change."
 
-passage = ""
+
 
 check_unique_words, check_unique_word_count, input = get_unique_word_lengths(passage)
 
